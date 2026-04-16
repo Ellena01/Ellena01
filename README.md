@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Helen 👋
 
-<!--
-**Ellena01/Ellena01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student currently learning software development.
 
-Here are some ideas to get you started:
+## 🚀 What I'm learning
+- HTML & CSS
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build real-world projects
+- Secure a SIWES internship
+- Improve my problem-solving skills
+
+## 📫 Contact
+- Email: Oyizaellena@gmail.com
