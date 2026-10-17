@@ -95,7 +95,7 @@ CALENDAR_QUERY = """
 query($login: String!) {
   user(login: $login) {
     createdAt
-    repositories(privacy: PUBLIC, isFork: false, ownerAffiliations: OWNER) { totalCount }
+    repositories(privacy: PUBLIC) { totalCount }
     contributionsCollection {
       contributionCalendar {
         totalContributions
