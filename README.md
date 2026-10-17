@@ -4,98 +4,84 @@
 
 ## Hello, I'm Helen 👋
 
-I’m a Computer Science student at the African University of Science and Technology (AUST), Abuja, building practical software while learning deeply across AI, full-stack development, and product design.
+Computer Science student at **AUST, Abuja** building practical products across AI, full-stack engineering, and thoughtful interface design.
 
-I care about building useful technology for real people, especially in African contexts where reliability, clarity, and accessibility matter.
-
----
-
-## What this profile is based on
-
-This profile is intentionally evidence-based from public repository code and commit history.
-
-- It reflects **implemented work**, not just ideas.
-- It distinguishes **finished features vs prototypes**.
-- It avoids inflated claims about role, impact, or seniority.
+I’m focused on learning by shipping: turning ideas into working software, documenting what is real, and improving through iteration.
 
 ---
 
-## Selected Projects
+## Profile integrity
 
-### 1) Pathify — Opportunity intelligence platform
-- **Repository:** [github.com/Ellena01/pathify](https://github.com/Ellena01/pathify)
-- **Problem:** Opportunity discovery is noisy and fragmented.
-- **What I built (verified):**
-  - A Python-based discovery actor with structured opportunity modeling.
-  - A Next.js frontend with opportunity workflows.
-  - Matching/scoring logic with tests and typed models.
-- **Tech seen in code:** Python, Pydantic, Next.js, TypeScript, Supabase, Zod.
-- **Status:** Active and technically substantial.
-- **Demo:** [pathify-iq.vercel.app](https://pathify-iq.vercel.app) *(link present; runtime not verified in this environment).* 
+This README is evidence-led from accessible public repositories.
 
-### 2) Cinematic Artifact — Interactive WebGL experience
-- **Repository:** [github.com/Ellena01/cinematic-artifact](https://github.com/Ellena01/cinematic-artifact)
-- **Problem:** Explore expressive, high-fidelity web interaction using real-time graphics.
-- **What I built (verified):**
-  - A Next.js app with custom Three.js shader-driven canvas behavior.
-  - Motion-orchestrated interactive visual layer.
-- **Tech seen in code:** Next.js, TypeScript, Three.js, GLSL, GSAP.
-- **Status:** Implemented experimental/creative project.
-- **Demo:** [cinematic-artifact.vercel.app](https://cinematic-artifact.vercel.app) *(link present; runtime not verified in this environment).* 
+- ✅ Emphasizes implemented work.
+- ✅ Distinguishes production-ready work from prototypes.
+- ✅ Avoids inflated titles, impact claims, or unverified credentials.
 
-### 3) RoutePin — Travel experience frontend
-- **Repository:** [github.com/Ellena01/routepin](https://github.com/Ellena01/routepin)
-- **Problem:** Present a polished, interactive travel-planning interface.
-- **What I built (verified):**
-  - Multi-section Next.js product-style frontend.
-  - Interactive destination and booking UI patterns.
-- **Tech seen in code:** Next.js, React, TypeScript, Tailwind CSS.
+---
+
+## Project Showcase (selected from verified code)
+
+### Pathify — Opportunity intelligence platform
+**Repo:** [github.com/Ellena01/pathify](https://github.com/Ellena01/pathify)
+
+- **Problem:** Opportunity discovery is fragmented and hard to personalize.
+- **Built (verified):** Python discovery actor, structured opportunity modeling, Next.js frontend flows, tested matching/scoring components.
+- **Tech in code:** Python, Pydantic, Next.js, TypeScript, Supabase, Zod.
+- **Status:** Active, substantial implementation.
+- **Demo link:** [pathify-iq.vercel.app](https://pathify-iq.vercel.app) *(URL present; runtime not verified in this environment).* 
+
+### Cinematic Artifact — Interactive WebGL experience
+**Repo:** [github.com/Ellena01/cinematic-artifact](https://github.com/Ellena01/cinematic-artifact)
+
+- **Problem:** Explore high-fidelity interactive storytelling on the web.
+- **Built (verified):** Shader-driven Three.js canvas behavior integrated into a Next.js app with motion orchestration.
+- **Tech in code:** Next.js, TypeScript, Three.js, GLSL, GSAP.
+- **Status:** Implemented creative/experimental project.
+- **Demo link:** [cinematic-artifact.vercel.app](https://cinematic-artifact.vercel.app) *(URL present; runtime not verified in this environment).* 
+
+### RoutePin — Travel experience frontend
+**Repo:** [github.com/Ellena01/routepin](https://github.com/Ellena01/routepin)
+
+- **Problem:** Deliver a polished and interactive travel-planning web experience.
+- **Built (verified):** Multi-section Next.js product-style UI with destination and booking interaction patterns.
+- **Tech in code:** Next.js, React, TypeScript, Tailwind CSS.
 - **Status:** Strong frontend implementation.
-- **Demo:** [routepin-chi.vercel.app](https://routepin-chi.vercel.app) *(link present; runtime not verified in this environment).* 
+- **Demo link:** [routepin-chi.vercel.app](https://routepin-chi.vercel.app) *(URL present; runtime not verified in this environment).* 
 
-### 4) Nigeria Celebrates — Community platform prototype
-- **Repository:** [github.com/Ellena01/nigeria-celebrates](https://github.com/Ellena01/nigeria-celebrates)
-- **Problem:** Create an engaging youth/community digital experience.
-- **What I built (verified):**
-  - A React + Vite frontend with multiple experience routes/components.
-  - Supporting backend scaffold with Express/TypeScript structure.
-- **Tech seen in code:** React, TypeScript, Vite, Framer Motion, Express.
+### Nigeria Celebrates — Community platform prototype
+**Repo:** [github.com/Ellena01/nigeria-celebrates](https://github.com/Ellena01/nigeria-celebrates)
+
+- **Problem:** Create an engaging youth/community participation platform.
+- **Built (verified):** React + Vite frontend with multiple experience routes/components and a supporting Express/TypeScript backend scaffold.
+- **Tech in code:** React, TypeScript, Vite, Framer Motion, Express.
 - **Status:** Prototype / evolving architecture.
 
 ---
 
 ## Skills (evidence-led)
 
-### Programming
-Python · JavaScript · TypeScript
-
-### Frontend
-React · Next.js · Tailwind CSS · Vite
-
-### Backend & Data
-Node.js/Express · Supabase · API integration · Structured data modeling (Pydantic/Zod)
-
-### AI & Intelligent Systems (project use)
-Generative AI API integration workflows · matching/retrieval-style opportunity logic
-
-### Tools
-Git & GitHub · VS Code · Vercel
+**Programming:** Python · JavaScript · TypeScript  
+**Frontend:** React · Next.js · Tailwind CSS · Vite  
+**Backend & Data:** Node.js/Express · Supabase · API integration · structured data modeling (Pydantic/Zod)  
+**AI application work:** generative AI integration workflows · opportunity matching/retrieval logic  
+**Tools:** Git · GitHub · VS Code · Vercel
 
 ---
 
-## Current Direction
+## Current direction
 
-- Building AI-powered applications that are practical and usable.
-- Improving backend engineering depth and system thinking.
-- Combining strong technical implementation with thoughtful UI/UX.
-- Developing products that can serve African users and communities meaningfully.
+- Building practical AI-powered applications.
+- Deepening backend and systems thinking.
+- Combining implementation quality with human-centered design.
+- Shipping products relevant to African users and communities.
 
 ---
 
-## Notes on scope and verification
+## Scope notes
 
-- Team/hackathon project details (e.g., CogniFlow/Hunuko competition placement) are meaningful context, but are **not fully documented in the currently accessible public repos**, so they are not presented here as primary verified build evidence.
-- External certifications and appointments are excluded unless directly verifiable from accessible artifacts.
+- Team/hackathon context (including CogniFlow/Hunuko references) is important but is **not fully verifiable as primary implementation evidence** from currently accessible repositories, so it is not represented here as a flagship coded project.
+- Certifications/appointments are omitted unless directly verifiable from accessible artifacts.
 
 ---
 
