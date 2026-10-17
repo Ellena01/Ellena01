@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="26" viewBox="0 0 900 26" role="img" aria-labelledby="divT">
+  <title id="divT">Section divider</title>
+  <defs>
+    <linearGradient id="dLeft" x1="0" y1="13" x2="400" y2="13" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="1" stop-color="#701A3D"/>
+    </linearGradient>
+    <linearGradient id="dRight" x1="500" y1="13" x2="900" y2="13" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#701A3D"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="13" x2="420" y2="13" stroke="url(#dLeft)" stroke-width="1"/>
+  <line x1="480" y1="13" x2="900" y2="13" stroke="url(#dRight)" stroke-width="1"/>
+  <rect x="447" y="7" width="6" height="6" rx="1" fill="#FF2A85" transform="rotate(45 450 10)"/>
+  <circle cx="424" cy="13" r="1.6" fill="#B34A76"/>
+  <circle cx="476" cy="13" r="1.6" fill="#B34A76"/>
+</svg>
