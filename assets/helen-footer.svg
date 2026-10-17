@@ -1,0 +1,24 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ftitle fdesc">
+  <title id="ftitle">Helen Oyiza Footer Accent</title>
+  <desc id="fdesc">Minimal burgundy footer accent with flowing line.</desc>
+  <defs>
+    <linearGradient id="helenFooterGradA" x1="0" y1="45" x2="1200" y2="45" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10070C"/>
+      <stop offset="0.5" stop-color="#451126"/>
+      <stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <linearGradient id="helenFooterLineB" x1="80" y1="45" x2="1120" y2="45" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="90" fill="url(#helenFooterGradA)"/>
+  <path d="M80 46C245 22 353 68 518 42C682 16 845 71 1120 39" stroke="url(#helenFooterLineB)" stroke-width="2" fill="none">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M80 46C245 22 353 68 518 42C682 16 845 71 1120 39;
+              M80 39C245 60 353 18 518 46C682 74 845 28 1120 47;
+              M80 46C245 22 353 68 518 42C682 16 845 71 1120 39"/>
+  </path>
+</svg>
