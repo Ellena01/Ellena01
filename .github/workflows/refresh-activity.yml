@@ -1,0 +1,37 @@
+name: Refresh activity panel
+
+# Keeps the contribution heatmap and metric strip in section 05 honest:
+# both SVGs are rendered from the official GitHub API, so they can never
+# drift from the real numbers (and don't depend on a third-party service).
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v4
+
+      - name: Regenerate the activity SVGs from the GitHub API
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build_activity_panel.py --fetch
+
+      - name: Commit the panel if it changed
+        run: |
+          if [ -z "$(git status --porcelain assets data)" ]; then
+            echo "Activity panel is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/helen-activity.svg assets/helen-metrics.svg data/activity.json
+          git commit -m "chore: refresh activity panel from the GitHub API"
+          git push
