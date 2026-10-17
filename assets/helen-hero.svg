@@ -1,0 +1,71 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Helen Oyiza — Profile Hero</title>
+  <desc id="desc">Premium burgundy themed animated banner with technical grid, orbital lines, and role line.</desc>
+
+  <defs>
+    <linearGradient id="helenBgGradientA" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.55" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+
+    <radialGradient id="helenGlowGradientB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(900 95) rotate(140) scale(340 220)">
+      <stop stop-color="#C77B9B" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="helenLineGradientC" x1="120" y1="308" x2="1030" y2="308" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#701A3D"/>
+      <stop offset="0.55" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#E5B5C7"/>
+    </linearGradient>
+
+    <linearGradient id="helenFlowGradientD" x1="80" y1="235" x2="1120" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#C77B9B" stop-opacity="0.65"/>
+      <stop offset="0.7" stop-color="#E5B5C7" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="helenGridPatternE" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#E5B5C7" stroke-opacity="0.09"/>
+    </pattern>
+
+    <filter id="helenSoftBlurF" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#helenBgGradientA)"/>
+  <rect width="1200" height="360" fill="url(#helenGridPatternE)"/>
+  <rect width="1200" height="360" fill="url(#helenGlowGradientB)"/>
+
+  <g opacity="0.62">
+    <circle cx="980" cy="190" r="100" stroke="#C77B9B" stroke-opacity="0.26"/>
+    <circle cx="980" cy="190" r="132" stroke="#E5B5C7" stroke-opacity="0.18"/>
+    <circle cx="980" cy="190" r="164" stroke="#F8F0F3" stroke-opacity="0.08"/>
+  </g>
+
+  <path d="M90 242C224 205 349 275 493 229C627 185 726 183 840 215C932 241 1004 239 1114 190" stroke="url(#helenFlowGradientD)" stroke-width="2.4" fill="none">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="M90 242C224 205 349 275 493 229C627 185 726 183 840 215C932 241 1004 239 1114 190;
+              M90 230C224 260 349 202 493 233C627 260 726 151 840 189C932 219 1004 249 1114 177;
+              M90 242C224 205 349 275 493 229C627 185 726 183 840 215C932 241 1004 239 1114 190"/>
+  </path>
+
+  <circle cx="308" cy="72" r="46" fill="#701A3D" fill-opacity="0.13" filter="url(#helenSoftBlurF)">
+    <animate attributeName="cx" values="308;365;308" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="88" y="118" fill="#F8F0F3" font-size="56" font-family="'Segoe UI', Inter, Arial, sans-serif" font-weight="700" letter-spacing="0.8">HELEN OYIZA</text>
+  <text x="90" y="156" fill="#E5B5C7" font-size="22" font-family="'Segoe UI', Inter, Arial, sans-serif" font-weight="500" letter-spacing="0.5">Computer Science Student • AI Builder • Full-Stack Developer</text>
+
+  <text x="90" y="190" fill="#C77B9B" font-size="14" font-family="'Consolas', 'SFMono-Regular', monospace" letter-spacing="1.4">BUILDING PRACTICAL PRODUCTS • LEARNING IN PUBLIC • NIGERIA</text>
+
+  <line x1="90" y1="214" x2="1030" y2="214" stroke="#E5B5C7" stroke-opacity="0.18"/>
+  <line x1="90" y1="308" x2="1030" y2="308" stroke="url(#helenLineGradientC)" stroke-width="3" stroke-linecap="round"/>
+
+  <circle cx="1020" cy="308" r="4.5" fill="#F8F0F3">
+    <animate attributeName="cx" values="120;1030;120" dur="14s" repeatCount="indefinite"/>
+  </circle>
+</svg>
