@@ -33,7 +33,7 @@
 | Competition / Event | Project / Focus | Result |
 | :--- | :--- | :--- |
 | **Udara "The Build" Challenge** | Full-Stack AI Learning Platform | **4th Place / National Semi-Finalist** 🏆 |
-| **StacStart Hackathon** | AfriConnect Web Platform | **Finalist & Builder** 🚀 |
+| **StacStart Hackathon** | pathify Web Platform | **Featured Project** 🚀 |
 | **AIB Ship Hackathon** | RoutePin Urban Navigation | **Featured Project** 🗺️ |
 | **PMI Student Chapter** | Project Management & Analytics | **Collaborator / Leadership** 💡 |
 
@@ -91,6 +91,7 @@
 
 | Credential / Program | Category | Status |
 | :--- | :--- | :--- |
+| **Harvard University (CS50P)** — Intro to Programming with Python |** Completed **✅|
 | **Cisco Networking Academy** — Intro to Cybersecurity | Cybersecurity | **Completed (97%)** ✅ |
 | **GitHub Education** — Student Developer Pack | Developer Tooling | **Verified Member** 🎒 |
 | **NNPC Gas Infrastructure (NGIC)** — ICT Industrial Training | Systems & Operations | **Completed (Industrial Training)** ⚡ |
