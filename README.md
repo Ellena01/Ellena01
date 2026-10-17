@@ -1,103 +1,117 @@
-<p align="center">
-  <img src="./assets/helen-hero.svg" alt="Helen Oyiza premium burgundy profile hero" width="100%" />
-</p>
+<div align="center">
 
-## Helen Oyiza
+<img src="./assets/helen-hero.svg" alt="Helen Oyiza Profile Hero" width="100%" />
 
-**Computer Science Student (AUST, Abuja) · AI Builder · Full-Stack Developer (in progress)**
+[![Visitors](https://komarev.com/ghpvc/?username=Ellena01&color=ff2a85&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Ellena01)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ellena01&theme=tokyonight&background=0d1117&fire=ff2a85&sideLabels=true)](https://git.io/streak-stats)
 
-I build practical products, learn in public, and focus on useful software for real users — especially in African contexts where clarity, access, and reliability matter.
-
----
-
-## Identity snapshot
-
-- 🎓 Computer Science undergraduate at AUST.
-- 🧠 Building across AI applications, frontend/backend systems, and product design.
-- 🛠️ Growth model: ship, test, refine, repeat.
-- 📌 Positioning: developing interdisciplinary technical depth without overstating expertise.
+</div>
 
 ---
 
-## Featured work (selected from verifiable code)
+## 01. ABOUT
 
-### 1) Pathify — Opportunity intelligence platform
-**Repository:** [Ellena01/pathify](https://github.com/Ellena01/pathify)
+<div align="center">
+  <h3><b>Engineering that holds up — from the model to the last pixel.</b></h3>
+  <p><i>Computer Science undergraduate at AUST, exploring AI applications, full-stack systems, and product design.</i></p>
+</div>
 
-- **Problem:** fragmented opportunity discovery and weak personalization.
-- **Verified implementation:** Python discovery actor, structured opportunity schema, Next.js frontend workflows, tested matching/scoring logic.
-- **Tech in code:** Python, Pydantic, Next.js, TypeScript, Supabase, Zod.
-- **Status:** active and technically substantial.
-- **Demo URL:** [pathify-iq.vercel.app](https://pathify-iq.vercel.app) *(URL verified present; runtime not verified in this environment).* 
+<br>
 
-### 2) Cinematic Artifact — Interactive WebGL experiment
-**Repository:** [Ellena01/cinematic-artifact](https://github.com/Ellena01/cinematic-artifact)
-
-- **Problem:** how far expressive, real-time web interaction can go with custom visual systems.
-- **Verified implementation:** Next.js app with shader-driven Three.js canvas and motion orchestration.
-- **Tech in code:** Next.js, TypeScript, Three.js, GLSL, GSAP.
-- **Status:** implemented creative/experimental build.
-- **Demo URL:** [cinematic-artifact.vercel.app](https://cinematic-artifact.vercel.app) *(URL verified present; runtime not verified in this environment).* 
-
-### 3) RoutePin — Product-style travel frontend
-**Repository:** [Ellena01/routepin](https://github.com/Ellena01/routepin)
-
-- **Problem:** present a polished interactive travel-planning experience.
-- **Verified implementation:** multi-section Next.js UI with destination and booking interaction flows.
-- **Tech in code:** Next.js, React, TypeScript, Tailwind CSS.
-- **Status:** strong frontend implementation.
-- **Demo URL:** [routepin-chi.vercel.app](https://routepin-chi.vercel.app) *(URL verified present; runtime not verified in this environment).* 
-
-### 4) Nigeria Celebrates — Community platform prototype
-**Repository:** [Ellena01/nigeria-celebrates](https://github.com/Ellena01/nigeria-celebrates)
-
-- **Problem:** build an engaging participation platform for youth/community audiences.
-- **Verified implementation:** React + Vite multi-route frontend plus Express/TypeScript backend scaffold.
-- **Tech in code:** React, TypeScript, Vite, Framer Motion, Express.
-- **Status:** prototype / evolving architecture.
+* **University:** 300-Level Computer Science Student at African University of Science and Technology (AUST)
+* **Leadership:** Operations Coordinator for Cowrywise on campus & Student Member of PMI
+* **Core Focus:** Full-Stack Web Development, Python & Machine Learning, Modular Software Design
 
 ---
 
-## Skills shown in repositories
+## 02. RECOGNITION
 
-- **Programming:** Python, JavaScript, TypeScript
-- **Frontend:** React, Next.js, Tailwind CSS, Vite
-- **Backend & data:** Node.js/Express, Supabase, API integration, structured modeling (Pydantic/Zod)
-- **AI application work:** generative AI integration workflows, opportunity matching/retrieval logic
-- **Tools:** Git, GitHub, VS Code, Vercel
+<div align="center">
+  <h3><b>Proof, on the record.</b></h3>
+</div>
 
----
-
-## Current direction
-
-- Build practical AI-powered applications.
-- Deepen backend engineering and systems thinking.
-- Combine implementation quality with human-centered interface design.
-- Ship products relevant to African communities and learners.
+| Competition / Event | Project / Focus | Result |
+| :--- | :--- | :--- |
+| **Udara "The Build" Challenge** | Full-Stack AI Learning Platform | **4th Place / National Semi-Finalist** 🏆 |
+| **StacStart Hackathon** | AfriConnect Web Platform | **Finalist & Builder** 🚀 |
+| **AIB Ship Hackathon** | RoutePin Urban Navigation | **Featured Project** 🗺️ |
+| **PMI Student Chapter** | Project Management & Analytics | **Collaborator / Leadership** 💡 |
 
 ---
 
-## Contribution activity
+## 03. SELECTED WORK
 
-For live, non-fabricated contribution history:
-- **Profile graph:** [github.com/Ellena01](https://github.com/Ellena01)
-- **Repositories:** [github.com/Ellena01?tab=repositories](https://github.com/Ellena01?tab=repositories)
-- **Commits:** [github.com/Ellena01?tab=overview&from=2026-01-01&to=2026-12-31](https://github.com/Ellena01?tab=overview&from=2026-01-01&to=2026-12-31)
+<div align="center">
+  <h3><b>Products, not assignments.</b></h3>
+  <p><i>Systems built with real constraints—clean state management and robust architecture.</i></p>
+</div>
 
----
-
-## Verification scope
-
-- This profile prioritizes evidence from accessible public code and repository history.
-- Team/hackathon context (including CogniFlow/Hunuko references) is recognized but not presented here as primary coded evidence where repository-level verification is incomplete.
-- Certifications, awards, and appointments are omitted unless directly verifiable from accessible artifacts.
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **RoutePin** | Next.js, TypeScript, Tailwind | Interactive travel planner and urban navigation platform featuring dynamic carousels and booking modals. | [GitHub Repo](https://github.com/Ellena01) |
+| **Hunuko (Animatrix)** | Python, Modular Architecture | Collaborative multi-member AI learning system transforming raw notes and PDFs into interactive study materials. | [GitHub Repo](https://github.com/Ellena01) |
+| **Personal Finance Manager** | Python, SQLite, Pytest | Command-line financial tracking utility featuring automated unit testing and file storage integration. | [GitHub Repo](https://github.com/Ellena01) |
 
 ---
 
-## Connect
+## 04. THE TOOLS I REACH FOR
 
-- GitHub: [@Ellena01](https://github.com/Ellena01)
+### 💻 Languages & Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,tailwind&theme=dark" />
+</div>
 
-<p align="center">
-  <img src="./assets/helen-footer.svg" alt="Burgundy footer accent" width="100%" />
+### ⚙️ Backend, APIs & Infrastructure
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,sqlite,git,github,vercel,vscode&theme=dark" />
+</div>
+
+---
+
+## 05. COMMIT LOG
+
+<div align="center">
+  <h3><b>A year of building, one square at a time.</b></h3>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ellena01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2a85&icon_color=ff2a85&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellena01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2a85&text_color=c9d1d9" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ellena01&theme=tokyo-night&bg_color=0d1117&color=ff2a85&line=ff2a85&point=ffffff&area=true" width="100%" />
+</div>
+
+---
+
+## 06. CERTIFICATIONS & FOUNDATIONS
+
+| Credential / Program | Category | Status |
+| :--- | :--- | :--- |
+| **Cisco Networking Academy** — Intro to Cybersecurity | Cybersecurity | **Completed (97%)** ✅ |
+| **GitHub Education** — Student Developer Pack | Developer Tooling | **Verified Member** 🎒 |
+| **NNPC Gas Infrastructure (NGIC)** — ICT Industrial Training | Systems & Operations | **Completed (Industrial Training)** ⚡ |
+
+---
+
+## 07. CONNECT
+
+<div align="center">
+  <h3><b>Let's build something worth explaining.</b></h3>
+
+| Platform | Link |
+| :---: | :---: |
+| **📧 Email** | `Oyizaellena@gmail.com` |
+| **💼 LinkedIn** | [Connect on LinkedIn](https://linkedin.com) |
+| **📂 GitHub** | [Explore My Repos](https://github.com/Ellena01) |
+
+*“Engineering that holds up — from the model to the last pixel.”*
+
+</div>
+
+
+ />
 </p>
