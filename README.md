@@ -12,8 +12,8 @@
 ## 01. ABOUT
 
 <div align="center">
-  <h3><b>Engineering that holds up — from the model to the last pixel.</b></h3>
-  <p><i>Computer Science undergraduate at AUST, exploring AI applications, full-stack systems, and product design.</i></p>
+  <h3><b>Engineering that holds up — from the model to the last pixel.</b></h3>
+  <p><i>Computer Science undergraduate at AUST, exploring AI applications, full-stack systems, and product design.</i></p>
 </div>
 
 <br>
@@ -27,7 +27,7 @@
 ## 02. RECOGNITION
 
 <div align="center">
-  <h3><b>Proof, on the record.</b></h3>
+  <h3><b>Proof, on the record.</b></h3>
 </div>
 
 | Competition / Event | Project / Focus | Result |
@@ -42,8 +42,8 @@
 ## 03. SELECTED WORK
 
 <div align="center">
-  <h3><b>Products, not assignments.</b></h3>
-  <p><i>Systems built with real constraints—clean state management and robust architecture.</i></p>
+  <h3><b>Products, not assignments.</b></h3>
+  <p><i>Systems built with real constraints—clean state management and robust architecture.</i></p>
 </div>
 
 | Project | Tech Stack | Description | Links |
@@ -58,12 +58,12 @@
 
 ### 💻 Languages & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,tailwind&theme=dark" />
 </div>
 
 ### ⚙️ Backend, APIs & Infrastructure
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,sqlite,git,github,vercel,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,sqlite,git,github,vercel,vscode&theme=dark" />
 </div>
 
 ---
@@ -71,18 +71,18 @@
 ## 05. COMMIT LOG
 
 <div align="center">
-  <h3><b>A year of building, one square at a time.</b></h3>
+  <h3><b>A year of building, one square at a time.</b></h3>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ellena01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2a85&icon_color=ff2a85&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellena01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2a85&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ellena01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2a85&icon_color=ff2a85&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellena01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2a85&text_color=c9d1d9" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ellena01&theme=tokyo-night&bg_color=0d1117&color=ff2a85&line=ff2a85&point=ffffff&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ellena01&theme=tokyo-night&bg_color=0d1117&color=ff2a85&line=ff2a85&point=ffffff&area=true" width="100%" />
 </div>
 
 ---
@@ -91,7 +91,6 @@
 
 | Credential / Program | Category | Status |
 | :--- | :--- | :--- |
-| **Harvard University (CS50P)** — Intro to Programming with Python | Python & Unit Testing | **Completed & Verified** 🎓 |
 | **Cisco Networking Academy** — Intro to Cybersecurity | Cybersecurity | **Completed (97%)** ✅ |
 | **GitHub Education** — Student Developer Pack | Developer Tooling | **Verified Member** 🎒 |
 | **NNPC Gas Infrastructure (NGIC)** — ICT Industrial Training | Systems & Operations | **Completed (Industrial Training)** ⚡ |
@@ -101,7 +100,7 @@
 ## 07. CONNECT
 
 <div align="center">
-  <h3><b>Let's build something worth explaining.</b></h3>
+  <h3><b>Let's build something worth explaining.</b></h3>
 
 | Platform | Link |
 | :---: | :---: |
@@ -112,6 +111,3 @@
 *“Engineering that holds up — from the model to the last pixel.”*
 
 </div>
-
-
-
