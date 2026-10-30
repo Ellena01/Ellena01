@@ -20,5 +20,5 @@
 <text x="769.5" y="86" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" letter-spacing="1.1" fill="#B34A76">PULL REQUESTS OPENED</text>
 <line x1="663.0" y1="30" x2="663.0" y2="96" stroke="#451126" stroke-width="1" stroke-opacity="0.8"/>
 <line x1="24" y1="104" x2="876" y2="104" stroke="#451126" stroke-opacity="0.7"/>
-<text x="876" y="120" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1.1" fill="#8C6B79">LIVE FROM THE GITHUB API · SNAPSHOT 29 Oct 2026 · BUILDING IN PUBLIC SINCE 2025</text>
+<text x="876" y="120" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1.1" fill="#8C6B79">LIVE FROM THE GITHUB API · SNAPSHOT 30 Oct 2026 · BUILDING IN PUBLIC SINCE 2025</text>
 </svg>
